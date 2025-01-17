@@ -1,2 +1,2 @@
-# anudau-website
-This is 
+# pet_food_website
+This website is for pet food
